@@ -3,6 +3,7 @@
         <img src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" alt="hot">
         <html>
 <head>
+    <table>
     <tr>
         <th> Climate Based Issue </th>
         <th> What's Happening? </th>
@@ -27,7 +28,6 @@
         <td> sea level rise </td>
         <td> global sea level rose about 8 inches in the last century
         <td> since this is linked to global temp rise which is linked to human impact, it's possible </td>
-    </tr>
 <br>
 Climate change is happening. Neither political party can deny that. Every day, weather changes in every area on the planet. The question is not whether climate hange is happening or not. The question is whether climate change should be considered as big of a deal as it is right now. Is it an urgent issue, or not?
 <br>
