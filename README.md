@@ -1,6 +1,6 @@
 <h1>Climate Change</h1>
-        <img class= "pic" src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" alt="cold">
-        <img class= "pic" src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" alt="hot">
+        <img src="https://www.kasandbox.org/programming-images/landscapes/mountain_matterhorn.png" alt="cold">
+        <img src="https://www.kasandbox.org/programming-images/landscapes/sand-dunes.png" alt="hot">
         <html>
 <head>
     <table>
